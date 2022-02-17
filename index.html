@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/global.rules.css">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Feno IDs</title>
+  </head>
+  <body>
+
+    <div class="project">
+      <div class="container">
+        <form action="">
+          <div class="radio">
+            <div class="box">
+              <input type="radio" value="Product" name="type" id="product">
+              <label for="product">Product</label>  
+            </div>
+            <div class="box">
+              <input type="radio" value="Worker" name="type" id="worker">
+              <label for="worker">Worker</label>
+            </div>
+            <div class="box">
+              <input type="radio" value="Costoumer" name="type" id="costoumer">
+              <label for="costoumer">Costoumer</label>
+            </div>
+          </div>
+
+          <div class="input">
+            <label for="id">ID : </label>
+            <input type="number" id="id">
+          </div>
+
+          <div class="submit">Submit</div>
+        </form>
+
+        <div class="result-product none">
+
+          <div class="product-id">
+            <label for="product-id">ID :</label>
+            <input type="text" id="product-id" disabled>
+          </div>
+
+          <div class="link">
+            <label for="link">Link :</label>
+            <input type="text" id="link" disabled>
+          </div>
+
+          <div class="product-name">
+            <label for="product-name">Name :</label>
+            <input type="text" id="product-name" disabled>
+          </div>
+
+          <div class="back">Back</div>
+          
+        </div>
+        
+        <div class="result-worker none">
+
+          <div class="worker-id">
+            <label for="worker-id">ID :</label>
+            <input type="text" id="worker-id" disabled>
+          </div>
+          
+          <div class="worker-name">
+            <label for="worker-name">Name :</label>
+            <input type="text" id="worker-name" disabled>
+          </div>
+          
+          <div class="worker-phone-1">
+            <label for="worker-phone-1">Phone 1 :</label>
+            <input type="text" id="worker-phone-1" disabled>
+          </div>
+          
+          <div class="worker-phone-2">
+            <label for="worker-phone-2">Phone 2 :</label>
+            <input type="text" id="worker-phone-2" disabled>
+          </div>
+          
+          <div class="worker-finished">
+            <label for="worker-finished">Orders Finished :</label>
+            <input type="text" id="worker-finished" disabled>
+          </div>
+          
+          <div class="worker-money">
+            <label for="worker-money">His/Her Money :</label>
+            <input type="text" id="worker-money" disabled> 
+          </div>
+
+          <div class="worker-address-1">
+            <label for="worker-address-1">Address 1 :</label>
+            <input type="text" id="worker-address-1" disabled>
+          </div>
+          
+          <div class="worker-address-2">
+            <label for="worker-address-2">Address 2 :</label>
+            <input type="text" id="worker-address-2" disabled>
+          </div>
+          
+          <div class="back">Back</div>
+          
+        </div>
+        
+        <div class="result-costoumer none">
+          
+          <div class="costoumer-id">
+            <label for="costoumer-id">ID :</label>
+            <input type="text" id="costoumer-id" disabled>
+          </div>
+          
+          <div class="costoumer-name">
+            <label for="costoumer-name">Name :</label>
+            <input type="text" id="costoumer-name" disabled>
+          </div>
+          
+          <div class="costoumer-phone-1">
+            <label for="costoumer-phone-1">Phone 1 :</label>
+            <input type="text" id="costoumer-phone-1" disabled>
+          </div>
+          
+          <div class="costoumer-phone-2">
+            <label for="costoumer-phone-2">Phone 2 :</label>
+            <input type="text" id="costoumer-phone-2" disabled>
+          </div>
+          
+          <div class="costoumer-sell">
+            <label for="costoumer-sell">Sells :</label>
+            <input type="text" id="costoumer-sell" disabled>
+          </div>
+          
+          <div class="costoumer-cashback">
+            <label for="costoumer-cashback">CashBack :</label>
+            <input type="text" id="costoumer-cashback" disabled> 
+          </div>
+          
+          <div class="costoumer-address-1">
+            <label for="costoumer-address-1">Address 1 :</label>
+            <input type="text" id="costoumer-address-1" disabled>
+          </div>
+          
+          <div class="costoumer-address-2">
+            <label for="costoumer-address-2">Address 2 :</label>
+            <input type="text" id="costoumer-address-2" disabled>
+          </div>
+          
+          <div class="back">Back</div>
+
+        </div>
+        
+      </div>
+    </div>
+    <script src="js/products.js"></script>
+    <script src="js/workers.js"></script>
+    <script src="js/costoumers.js"></script>
+    <script src="js/main.js"></script>
+  </body>
+</html>

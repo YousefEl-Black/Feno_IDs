@@ -49,4 +49,9 @@ const myProducts = {
     name : "سنيكرز جلد للمشي",
     price : "85 EGP",
   },
+  "0011" : {
+    link : "https://taager.com/products/5ef7d3360a85281b75f5f81f?productName=Smart%20Bracelet%20LH719%20%2B%20Airpods%20i11",
+    name : "Smart Bracelet LH719 + Airpods i11",
+    price : "275 EGP",
+  },
 }

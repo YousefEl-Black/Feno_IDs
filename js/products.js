@@ -54,4 +54,9 @@ const myProducts = {
     name : "Smart Bracelet LH719 + Airpods i11",
     price : "275 EGP",
   },
+  "0012" : {
+    link : "https://taager.com/products/6016d9092c7d6e4889d5e2d6?productName=%D9%85%D8%A7%D9%83%D9%8A%D9%86%D8%A9%20%D8%A7%D9%84%D8%AE%D9%8A%D8%A7%D8%B7%D8%A9%20%2B%20%D8%B9%D9%84%D8%A8%D8%A9%20%D8%A3%D8%AF%D9%88%D8%A7%D8%AA%20%D8%AE%D9%8A%D8%A7%D8%B7%D8%A9",
+    name : "ماكينة الخياطة + علبة أدوات خياطة",
+    price : "200 EGP",
+  },
 }

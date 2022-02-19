@@ -30,7 +30,8 @@ form .input input {
 }
 
 form .submit,
-.back {
+.back,
+.go {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -47,7 +48,8 @@ form .submit,
 }
 
 form .submit:hover,
-.back:hover {
+.back:hover,
+.go:hover {
   color: white;
   background-color: black;
 }

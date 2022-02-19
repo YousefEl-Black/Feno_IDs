@@ -68,6 +68,7 @@ submit.onclick = function () {
       form.classList.toggle("none");
       document.getElementById("link").value = myProducts[`${id.value}`].link;
       document.getElementById("product-name").value = myProducts[`${id.value}`].name;
+      document.getElementById("product-price").value = myProducts[`${id.value}`].price;
     }
   }
   
@@ -132,7 +133,6 @@ document.querySelector(".result-costoumer .back").onclick = function () {
   form.classList.toggle("none");
 }
 
-
-
-
-console.log(Date.now())
+document.querySelector(".go").onclick = function () {
+  window.open(`${myProducts[`${id.value}`].link}`, "_blank")
+}

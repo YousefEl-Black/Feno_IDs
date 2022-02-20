@@ -54,4 +54,44 @@ const myProducts = {
     name : "Smart Bracelet LH719 + Airpods i11",
     price : "275 EGP",
   },
+  "0012" : {
+    link : "https://taager.co/products/62052b3c0648950014bbd930",
+    name : "ترينج اوفر سايز ميلتون + اير جوردان بينك",
+    price : "335 EGP",
+  },
+  "0013" : {
+    link : "https://taager.co/products/61c721a38129d60014974292?productName=%D9%83%D8%B1%D8%A7%D8%AA%20%D8%AA%D8%A8%D8%B1%D9%8A%D8%AF%20%D8%A7%D9%84%D9%88%D8%AC%D9%87%20%D9%84%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D9%82%20%D9%88%20%D8%A7%D9%84%D8%B1%D8%A4%D9%88%D8%B3%20%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D8%A1",
+    name : "كرات تبريد الوجه للإرهاق و الرؤوس السوداء",
+    price : "160 EGP",
+  },
+  "0014" : {
+    link : "https://taager.co/products/60339a8bc1c3e407c6327639?productName=BR-2288%20%D8%A7%D8%B3%D8%AA%D8%B4%D9%88%D8%A7%D8%B1%20%2B%20%D9%85%D9%83%D9%88%D8%A7%D8%A9%20%D9%81%D8%B1%D8%AF%20%D8%A7%D9%84%D8%B4%D8%B9%D8%B1%20Kemei%20KM-328",
+    name : "BR-2288 استشوار + مكواة فرد الشعر Kemei KM-328",
+    price : "195 EGP",
+  },
+  "0015" : {
+    link : "https://taager.co/products/61dc5b0bc034fb0014688c1e",
+    name : "دفاية هايدى اوفر سايز",
+    price : "280 EGP",
+  },
+  "0016" : {
+    link : "https://taager.co/products/61d2c0453f6d27001475ee5e",
+    name : "شنطةهاند رجالى بحافظة موبايل",
+    price : "110 EGP",
+  },
+  "0017" : {
+    link : "https://taager.co/products/6016d9092c7d6e4889d5e2d6?productName=%D9%85%D8%A7%D9%83%D9%8A%D9%86%D8%A9%20%D8%A7%D9%84%D8%AE%D9%8A%D8%A7%D8%B7%D8%A9%20%2B%20%D8%B9%D9%84%D8%A8%D8%A9%20%D8%A3%D8%AF%D9%88%D8%A7%D8%AA%20%D8%AE%D9%8A%D8%A7%D8%B7%D8%A9",
+    name : "ماكينة الخياطة + علبة أدوات خياطة",
+    price : "200 EGP",
+  },
+  "0018" : {
+    link : "https://taager.co/products/619221042f0a8c0013d0e0a1?productName=%D8%A7%D9%8A%D8%B1%D8%A8%D9%88%D8%AF%D8%B2%20%D8%A8%D8%B1%D9%88%20CORN",
+    name : "ايربودز برو CORN",
+    price : "560 EGP",
+  },
+  "0019" : {
+    link : "https://beta.picksell.io/product/%d8%b3%d9%85%d8%a7%d8%b9%d8%a7%d8%aa-%d8%b1%d8%a3%d8%b3-%d9%84%d9%84%d8%a3%d9%84%d8%b9%d8%a7%d8%a8%d8%8c-tc-l770mv-%d8%aa%d9%88%d8%aa%d8%b4%d9%8a/",
+    name : "سماعات رأس للألعاب، TC-L770MV – توتشي",
+    price : "120 EGP",
+  },
 }

@@ -94,4 +94,44 @@ const myProducts = {
     name : "سماعات رأس للألعاب، TC-L770MV – توتشي",
     price : "120 EGP",
   },
+  "0020" : {
+    link : "https://taager.co/products/6150915aacda200014a92ddf",
+    name : "كوتشي اليكسندر",
+    price : "160 EGP",
+  },
+  "0021" : {
+    link : "https://seller.alkaseba.com/app/home/product-details/412?att1=%D9%82%D8%B7%D8%B9%D9%87&att2=%D8%AC%D8%B1%D8%A7%D9%89%20%D9%88%20%D8%A7%D8%B3%D9%88%D8%AF",
+    name : "headphone SD",
+    price : "230 EGP",
+  },
+  "0022" : {
+    link : "https://beta.picksell.io/product/%d9%85%d8%b6%d8%ae%d8%a9-%d9%85%d9%8a%d8%a7%d8%a9-%d9%8a%d8%af%d9%88%d9%8a%d8%a9/",
+    name : "مضخة مياة يدوية",
+    price : "100 EGP",
+  },
+  "0023" : {
+    link : "https://seller.alkaseba.com/app/home/product-details/149?att1=%D9%86%D9%88%D8%B9%D9%8A",
+    name : "جهاز غلق الأكياس وحفظ الطعام باكت أكياس لجهاز غالق الأكياس",
+    price : "270 EGP",
+  },
+  "0024" : {
+    link : "https://seller.alkaseba.com/app/home/product-details/190?att1=%D9%86%D9%88%D8%B9%D9%8A",
+    name : "موبايل عفروتو Mini Nokia 3310",
+    price : "335 EGP",
+  },
+  "0025" : {
+    link : "https://seller.alkaseba.com/app/home/product-details/196?att1=%D9%86%D9%88%D8%B9%D9%8A",
+    name : "الباور بنك الحديدي بالطاقة الشمسية",
+    price : "200 EGP",
+  },
+  "0026" : {
+    link : "https://seller.alkaseba.com/app/home/product-details/134?att1=%D9%82%D9%84%D9%85",
+    name : "قلم تبيض الأسنان الأمريكي قلم تبيض الأسنان الأمريكي",
+    price : "100 EGP",
+  },
+  "0027" : {
+    link : "https://taager.co/products/62053b2b0648950014bd05fc?productName=%D8%B9%D8%B1%D8%B6%2012%20%D9%82%D9%84%D9%85%20%D8%B1%D9%88%D8%AC%20%D9%87%D8%AF%D9%8A%20%D8%A8%D9%8A%D9%88%D8%AA%D9%8A%20%D9%86%D9%88%D8%AF",
+    name : "عرض 12 قلم روج هدي بيوتي نود",
+    price : "175 EGP",
+  },
 }

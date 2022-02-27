@@ -134,4 +134,89 @@ const myProducts = {
     name : "عرض 12 قلم روج هدي بيوتي نود",
     price : "175 EGP",
   },
+  "0028" : {
+    link : "https://taager.com/products/61fa8f061dc8c20014492674?productName=%D9%81%D8%A7%D8%B3%D8%AA%D8%B1%20%D8%A3%D8%B3%D8%A8%D8%B1%D8%A7%D9%8A%20%D8%A8%D8%A7%D9%84%D9%83%D9%88%D9%84%D8%A7%D8%AC%D9%8A%D9%86%20%D9%85%D8%A7%D9%86%D8%B9%20%D9%84%D9%84%D8%AA%D8%B3%D8%A7%D9%82%D8%B7%20%D9%88%D8%A7%D9%84%D8%A5%D9%86%D8%A8%D8%A7%D8%AA%20%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9",
+    name : "فاستر أسبراي بالكولاجين مانع للتساقط والإنبات السريع",
+    price : "110 EGP",
+  },
+  "0029" : {
+    link : "https://taager.com/products/5f184185385e3156009c2e55?productName=%D9%85%D8%A7%D9%83%D9%8A%D9%86%D8%A9%20%D8%AA%D8%AD%D8%AF%D9%8A%D8%AF%20Flawless%20%D8%AA%D8%B9%D9%85%D9%84%20%D8%A8%D8%A7%D9%84%D8%B4%D8%AD%D9%86",
+    name : "ماكينة تحديد Flawless تعمل بالشحن",
+    price : "75 EGP",
+  },
+  "0030" : {
+    link : "https://taager.com/products/60fef8562738481b4abd5248?productName=%D8%A8%D8%A7%D8%AF%D9%8A%D9%83%D9%8A%D8%B1%20%D9%84%D9%84%D9%82%D8%AF%D9%85%20%D9%8A%D8%B9%D9%85%D9%84%20%D8%A8%D8%A7%D9%84%D8%B4%D8%AD%D9%86%20Scholl",
+    name : "باديكير للقدم يعمل بالشحن Scholl",
+    price : "75 EGP",
+  },
+  "0031" : {
+    link : "https://taager.com/products/604654e5408d1a01ab72d7f1?productName=%D8%B3%D9%85%D8%A7%D8%B9%D8%A9%20%D8%B1%D9%8A%D8%AF%D9%85%D9%8A%20%D8%A8%D8%B4%D8%A7%D8%B4%D8%A9",
+    name : "سماعة ريدمي بشاشة",
+    price : "240 EGP",
+  },
+  "0032" : {
+    link : "https://taager.com/products/607480b5093e7c388d2adfac?productName=%D9%81%D8%B1%D8%B4%D8%A7%D8%A9%20%D8%AA%D9%86%D8%B8%D9%8A%D9%81%20%D8%A7%D9%84%D9%88%D8%AC%D9%87%204%20%D9%81%D9%8A%201",
+    name : "فرشاة تنظيف الوجه 4 في 1",
+    price : "240 EGP",
+  },
+  "0033" : {
+    link : "https://taager.com/products/620508c5ffe0390013b1ef06",
+    name : "سويت شيرت صوف مبطن فرو + عرض2 هاى كول + تاتش دائرية اسود+ محفظة رجالى + حظاظه بقفل معدن",
+    price : "450 EGP",
+  },
+  "0034" : {
+    link : "https://taager.com/products/61507a79a27e95001291a6ec",
+    name : "كوتشي حريمي اسكتشر",
+    price : "140 EGP",
+  },
+  "0035" : {
+    link : "https://taager.com/products/6182d20b22722f00126c71c8?productName=%D8%AD%D8%B2%D8%A7%D9%85%20%D8%AA%D8%AE%D8%B3%D9%8A%D8%B3%20%D8%A7%D9%84%D8%A8%D8%B7%D9%86",
+    name : "حزام تخسيس البطن",
+    price : "150 EGP",
+  },
+  "0036" : {
+    link : "https://taager.com/products/61f133138c004400147ff8f4?productName=%D8%B3%D8%A7%D8%B9%D8%A9%20%D9%81%D8%A7%D9%8A%D9%83%D9%8A%D9%86%D8%AC%20VK03",
+    name : "ساعة فايكينج VK03",
+    price : "100 EGP",
+  },
+  "0037" : {
+    link : "https://taager.com/products/61c843b98129d60014a24993",
+    name : "ساعة كاسيو جى شوك",
+    price : "140 EGP",
+  },
+  "0038" : {
+    link : "https://taager.com/products/61c32bd88129d600146be8ff?productName=VGR-228%20%D9%85%D8%A7%D9%83%D9%8A%D9%86%D8%A9%20%D8%AD%D9%84%D8%A7%D9%82%D8%A9",
+    name : "VGR-228 ماكينة حلاقة",
+    price : "310 EGP",
+  },
+  "0039" : {
+    link : "https://taager.com/products/61fbecfca9a6a70014952bc9?productName=%D8%B9%D8%B1%D8%B6%20(%D9%82%D9%84%D9%85%20%D8%A7%D9%84%D9%85%D9%8A%D9%83%D8%B1%D9%88%D8%A8%D9%8A%D9%84%D8%AF%D9%86%D8%AC%20%D8%A7%D9%84%D8%AB%D8%A7%D8%A8%D8%AA%20Soft%20Brown%20%2B%20%D9%82%D9%84%D9%85%20%D8%A7%D9%84%D9%85%D9%8A%D9%83%D8%B1%D9%88%D8%A8%D9%8A%D9%84%D8%AF%D9%86%D8%AC%20%D8%A7%D9%84%D8%AB%D8%A7%D8%A8%D8%AA%20Dark%20Brown%20)",
+    name : "(قلم الميكروبيلدنج الثابت Soft Brown + قلم الميكروبيلدنج الثابت Dark Brown )",
+    price : "115 EGP",
+  },
+  "0040" : {
+    link : "https://taager.com/products/61be2b50cd7394001434e59b?productName=%D8%B7%D9%82%D9%85%20%D8%A7%D9%84%D9%81%D8%B1%D8%B4%20%D8%A7%D9%84%D9%85%D8%AD%D9%85%D9%88%D9%84",
+    name : "طقم الفرش المحمول",
+    price : "215 EGP",
+  },
+  "0041" : {
+    link : "https://taager.com/products/619e7a3b480aad001459df63?productName=%D9%85%D8%A7%D8%B3%D9%83%20%D8%A7%D9%84%D9%83%D8%B1%D8%B3%D8%AA%D8%A7%D9%84%20%D8%A7%D9%84%D9%83%D9%88%D9%84%D8%A7%D8%AC%D9%8A%D9%86%20%D9%84%D9%84%D8%B9%D9%8A%D9%86",
+    name : "ماسك الكرستال الكولاجين للعين",
+    price : "40 EGP",
+  },
+  "0042" : {
+    link : "https://taager.com/products/616316981fa4410013335de6?productName=Smart%20Watch%20FT80%20Black",
+    name : "Smart Watch FT80 Black",
+    price : "400 EGP",
+  },
+  "0043" : {
+    link : "https://taager.com/products/61f68c6ed6d2a20015173882?productName=%D8%B3%D9%88%D9%8A%D8%AA%D8%B4%D9%8A%D8%B1%D8%AA%20%D9%83%D8%A7%D9%88",
+    name : "سويتشيرت كاو",
+    price : "120 EGP",
+  },
+  "0044" : {
+    link : "https://taager.com/products/61d5d9034b88d1001599e535?productName=%D8%B9%D8%B1%D8%B6%20%D8%AB%D9%84%D8%A7%D8%AB%20%D9%82%D8%B7%D8%B9%20%D9%87%D8%A7%D9%8A%20%D9%83%D9%88%D9%84%20%D8%AD%D8%B1%D9%8A%D9%85%D9%8A%20(%20%D8%A7%D8%A8%D9%8A%D8%B6%20%D9%88%20%D8%A7%D8%B3%D9%88%D8%AF%20%D9%88%20%D8%A7%D8%AD%D9%85%D8%B1%20)%20%2B%20%D8%AC%D9%85%D8%A8%D8%B3%D9%88%D8%AA%20%D8%AD%D8%B1%D9%8A%D9%85%D9%8A%20%D8%AC%D9%8A%D9%86%D8%B2",
+    name : "عرض ثلاث قطع هاي كول حريمي ( ابيض و اسود و احمر ) + جمبسوت حريمي جينز",
+    price : "430 EGP",
+  },
 }
